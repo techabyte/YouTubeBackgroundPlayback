@@ -1,4 +1,5 @@
-# YouTube Background Playback
+# YouTube Background Playback [![Build 
+Status](https://travis-ci.org/techabyte/YouTubeBackgroundPlayback.svg?branch=master)](https://travis-ci.org/techabyte/YouTubeBackgroundPlayback)
 
 Xposed module: Enable background playback in YouTube
 
